@@ -247,8 +247,3 @@ This analysis shows that conversion is not limited by traffic or checkout — it
 
 ---
 
-## Author
-
-**Yash Kumar Agarwal**
-
-🔗 [LinkedIn](https://www.linkedin.com/in/yash-kumar-agarwal-41b704287/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/YashAgarwal2027) &nbsp;|&nbsp; 📂 [Dataset on Kaggle](https://www.kaggle.com/datasets/sufya6/e-commerce-customer-journey-click-to-conversion)
